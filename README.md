@@ -4,7 +4,7 @@
 |---|---|---|
 | JJ-MM-YYYY | Test écrit #1 | 12.5% |
 | JJ-MM-YYYY | Test écrit #2 | 12.5% |
-|   | Labos test | 25% |
+|   | Labos notés | 25% |
 |   | Examen | 50% |
 
 # Informations générales pour le cours
