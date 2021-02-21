@@ -20,4 +20,5 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 # Activités cours/labo
 | Date du cours/labo | Activité | Commentaire |
 |---|---|---|
-|JJ-MM-AAAA C | Présentation et introduction |  |
+|20210222 C | Présentation et introduction |  |
+|20210222 L | Labo01 |  |
