@@ -2,8 +2,8 @@
 
 | Date | Activité | Ratio |
 |---|---|---|
-| JJ-MM-YYYY | Test écrit #1 | 12.5% |
-| JJ-MM-YYYY | Test écrit #2 | 12.5% |
+| 12-04-2021 | Test écrit #1 | 12.5% |
+| 14-06-2021 | Test écrit #2 | 12.5% |
 |   | Labos notés | 25% |
 |   | Examen | 50% |
 
