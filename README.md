@@ -23,4 +23,5 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210222 C | Présentation et introduction |  |
 |20210222 L | Labo01 |  |
 |20210225 L | Labo02 |  |
-|20210225 C | fichier texte |  |
+|20210225 C | fichier texte - création|  |
+|20210301 C | fichier texte - écriture|  |
