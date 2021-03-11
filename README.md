@@ -26,3 +26,4 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210225 C | fichier texte - création|  |
 |20210301 C | fichier texte - écriture| y.c. format CSV |
 |20210308 C | lecture depuis un fichier texte |  |
+|20210311	L | Labo03 | |
