@@ -28,3 +28,4 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210308 C | lecture depuis un fichier texte (caractères, lignes) |  |
 |20210311	L | lecture depuis un fichier texte (champs formatés), labo03 | |
 |20210311	C | structures | |
+|20210315	C | structures, fichiers binaires | |
