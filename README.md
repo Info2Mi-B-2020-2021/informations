@@ -33,3 +33,4 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210322 C | Fichiers binaires |  |
 |20210325 C | Pointeurs |  |
 |20210325 L | Labo04 |  |
+|20210329 C | Révision TE1 |  |
