@@ -39,4 +39,5 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210415 L | Labo05 | |
 |20210415 C | Correction TE1, Review structures, Allocation dynamique | |
 |20210419 C | Allocation dynamique | |
+|20210422 L | Labo05 | |
 
