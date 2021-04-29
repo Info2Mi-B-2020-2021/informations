@@ -41,4 +41,5 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210419 C | Allocation dynamique |livraison labo05 repoussée au 9 mai 2021 |
 |20210422 L | Labo05 | |
 |20210426 C | Reallocation dynamique | |
+|20210429 C | Reallocation dynamique (suite) | |
 
