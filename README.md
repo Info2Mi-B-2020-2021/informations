@@ -44,5 +44,6 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210429 C | Reallocation dynamique (suite) | |
 |20210503 C | Reallocation dynamique de mémoire (suite) | à terminer pour le 6 mai |
 |20210506 L | Labo05 | |
+|20210510 C | image bitmap - description et accès au contenu |
 
 
