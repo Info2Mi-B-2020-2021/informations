@@ -46,5 +46,7 @@ Lien pour le repository des TD : https://github.com/Info2Mi-B-2020-2021/TD.
 |20210506 L | Labo05 | |
 |20210510 C | image bitmap - description et accès au contenu |
 |20210517 C | compilation séparée |
+|20210520 C | liste tableau |
+|20210531 C | liste tableau + dynamique |
 
 
